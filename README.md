@@ -1,4 +1,4 @@
-Hola, mi nombre es Axel y espero que te aprendas muchas cosas hoy
+Hola, mi nombre es Axel y espero que aprendas muchas cosas hoy.
 Me interesa mucho el mundo del desarrollo web y siempre estoy aprendiendo cosas nuevas para mejorar como programador.
 
 
